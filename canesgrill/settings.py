@@ -118,8 +118,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'churrascaria_db',
         'USER': 'admin',
-        'PASSWORD': 'OjEGxzbLZy3mEwshQ6zRPUrL45m8u93a',
-        'HOST': 'dpg-ciou0b6nqql4qa0jgkag-a.oregon-postgres.render.com',
+        'PASSWORD': 'XkTmpVYy35URWlNR0PnDezVKpApzqEQy',
+        'HOST': 'dpg-ciraaqdiuie930lpjrs0-a.oregon-postgres.render.com',
         'PORT': '5432',
     }
 }
