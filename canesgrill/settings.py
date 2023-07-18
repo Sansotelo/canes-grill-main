@@ -116,10 +116,10 @@ WSGI_APPLICATION = 'canesgrill.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'churrascaria_db_0vr4',
+        'NAME': 'churrascaria_db_ad52',
         'USER': 'admin',
-        'PASSWORD': 'XkTmpVYy35URWlNR0PnDezVKpApzqEQy',
-        'HOST': 'dpg-ciraaqdiuie930lpjrs0-a.oregon-postgres.render.com',
+        'PASSWORD': 'zElogjyOtxKtORH4NpnKyNXsH3tu7kuT',
+        'HOST': 'dpg-cirg0otph6et1s9ekru0-a.oregon-postgres.render.com',
         'PORT': '5432',
     }
 }
